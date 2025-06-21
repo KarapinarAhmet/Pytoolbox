@@ -102,5 +102,7 @@ Ahmet Karapınar
 📄 Lisans
 
 MIT Lisansı – Açık kaynak, dilediğiniz gibi kullanabilirsiniz.
+## Lisans
 
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 ---
