@@ -3,3 +3,6 @@
 requests
 Pillow
 fpdf
+python-whois
+dnspython
+colorama

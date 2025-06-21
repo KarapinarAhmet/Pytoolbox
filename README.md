@@ -92,7 +92,10 @@ Hepsi requirements.txt dosyasına dahildir
 👨‍💻 Geliştirici
 
 Ahmet Karapınar
-GitHub Profili
+(https://github.com/Karapinarahmrt)
+
+ 💻 PROJE ADRESİ 
+(https://github.com/Karapinarahmet/Pytoolbox)
 
 ---
 
